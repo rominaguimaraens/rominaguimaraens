@@ -1,6 +1,6 @@
 Hey there! 👋 Welcome to my Github page!
 
-I'm Romina, a Trainee Game Quality Analyst 🎮 with a passion for gaming and all things tech-related 🤖. Currently, I'm studying the VR/AR Specialization 🌟 at Holberton School in Montevideo 🇺🇾.
+I'm Romina, a Junior Game Quality Analyst 🎮 with a passion for gaming and all things tech-related 🤖. Currently, I'm studying the VR/AR Specialization 🌟 at Holberton School in Montevideo 🇺🇾.
 
 I have experience in game testing, content creation, social media management, and customer service 🤝. I'm a problem-solver with strong analytical skills and familiarity with various programming languages including C, Python, and JavaScript.
 
